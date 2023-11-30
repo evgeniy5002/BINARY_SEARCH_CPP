@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8a6d9aa2d6b9b2cf88177d7c39b824bd807ad385349c73412af8ffb7d9fc46fc"
+    }
+  ],
+  "containerPath" : "/Users/admin/Documents/DATA_STRUCTURES/BINARY_SEARCH_CPP/BINARY_SEARCH_CPP.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/admin/Documents/DATA_STRUCTURES/BINARY_SEARCH_CPP/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/admin/Documents/DATA_STRUCTURES/BINARY_SEARCH_CPP/Build/Products",
+      "derivedDataPath" : "/Users/admin/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/admin/Library/Developer/Xcode/DerivedData/BINARY_SEARCH_CPP-cnrwwnragsruhchasyuhlzszhwey/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/admin/Library/Developer/Xcode/DerivedData/BINARY_SEARCH_CPP-cnrwwnragsruhchasyuhlzszhwey/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/admin/Documents/DATA_STRUCTURES/BINARY_SEARCH_CPP/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "profile",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'BINARY_SEARCH_CPP' in project 'BINARY_SEARCH_CPP' (no dependencies)
